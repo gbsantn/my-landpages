@@ -1,0 +1,47 @@
+:root {
+    --primary: #28CB8B;
+    --secondary: #263238;
+    --info: #2194f3;
+    --neutral-black:#212121;
+}
+
+@font-face {
+    font-family: "Inter" ;
+    src: url(../assets/inter.ttf);
+}
+
+h1 {
+    font-family: "Inter" ;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 76px;
+    color: var(--neutral-black);
+}
+
+h2 {
+    font-family: "Inter" ;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+    color: var(--neutral-black);
+}
+
+h3 {
+    font-family: "Inter" ;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    color: var(--neutral-black);
+}
+
+h4 {
+    font-family: "Inter" ;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    color: var(--neutral-black);
+}
